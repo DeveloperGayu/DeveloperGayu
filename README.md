@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2b4c8f28-5ca5-4339-967e-53d4ad9cccfe)<h1 align="center">Hi 👋, I'm Gayathri</h1>
+(https://github.com/user-attachments/assets/2b4c8f28-5ca5-4339-967e-53d4ad9cccfe)<h1 align="center">Hi 👋, I'm Gayathri</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 📫 How to reach me **gaya3n2003@gmail.com**
@@ -13,7 +13,7 @@
 <h3>My Projects:<br> </h3>
 <h2> 1. Portfolio website </h2>
 <a href="https://developergayu.github.io/Portfolio-website-responsive-HTML-CSS-JS-/
-">
+"></a>
 <h2>2. Employee Mnagement System</h2>
 <a href="https://developergayu.github.io/Employee-Management-System/"></a>
 
